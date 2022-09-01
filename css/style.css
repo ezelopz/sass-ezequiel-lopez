@@ -1,0 +1,15 @@
+*{margin:0px;
+    padding:0px ;
+    box-sizing: border-box;
+}
+
+.footerOnly{background-color: gold;important!}
+
+.footerOnly ul{
+    display: flex;
+    list-style: none;
+    width: 500px;
+    margin: 0 auto;
+    padding: 0 auto;
+    justify-content: space-around
+}

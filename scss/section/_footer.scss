@@ -1,0 +1,10 @@
+.footerOnly{background-color: gold;important!}
+
+.footerOnly ul{
+    display: flex;
+    list-style: none;
+    width: 500px;
+    margin: 0 auto;
+    padding: 0 auto;
+    justify-content: space-around
+}
